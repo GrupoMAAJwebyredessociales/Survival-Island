@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego Naufrago", "Assembly-CSharp-firstpass.csproj", "{717D50CE-8565-5900-124C-90831CD7E49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego Naufrago", "Assembly-CSharp.csproj", "{D571322D-C121-C93C-D40A-43287E961BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego Naufrago", "Assembly-CSharp-Editor-firstpass.csproj", "{28DE493E-9911-E21C-DBA7-0ED3059B48A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego Naufrago", "Assembly-CSharp-Editor.csproj", "{DA8B6017-81AE-9ACE-EEE5-C19FC59E7726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717D50CE-8565-5900-124C-90831CD7E49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717D50CE-8565-5900-124C-90831CD7E49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717D50CE-8565-5900-124C-90831CD7E49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717D50CE-8565-5900-124C-90831CD7E49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D571322D-C121-C93C-D40A-43287E961BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D571322D-C121-C93C-D40A-43287E961BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D571322D-C121-C93C-D40A-43287E961BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D571322D-C121-C93C-D40A-43287E961BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DE493E-9911-E21C-DBA7-0ED3059B48A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DE493E-9911-E21C-DBA7-0ED3059B48A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DE493E-9911-E21C-DBA7-0ED3059B48A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DE493E-9911-E21C-DBA7-0ED3059B48A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8B6017-81AE-9ACE-EEE5-C19FC59E7726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8B6017-81AE-9ACE-EEE5-C19FC59E7726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8B6017-81AE-9ACE-EEE5-C19FC59E7726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8B6017-81AE-9ACE-EEE5-C19FC59E7726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

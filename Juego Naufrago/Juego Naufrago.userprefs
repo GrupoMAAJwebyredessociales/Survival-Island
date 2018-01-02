@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\CNControls\Examples\Scenes\2D\Scripts\Restarter.cs">
+    <Files>
+      <File FileName="Assets\Scripts\controladortiempo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\sound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\posicionColeccionables.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\controladortransicion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controladorprincipal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Brujula.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PointPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CNControls\Examples\Scenes\2D\Scripts\Restarter.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
